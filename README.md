@@ -1,4 +1,4 @@
-# INVENTORY MANAGEMENT AND BILLING APP - BACKEND
+# Inventory Management and Billing App - Backend
 
 ## Demo Account : 
 
